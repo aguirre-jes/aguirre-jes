@@ -1,16 +1,14 @@
-### Hi there 👋
+### Senior System Engineer II @Indra - 3X AWS Certified
 
-<!--
-**aguirre-jes/aguirre-jes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+Experienced technologist with a background in banking, finance, and energy. Passionate about complex problem-solving, and designing innovative solutions across cloud platforms. Proven ability to translate technical concepts and collaborate effectively across teams. Eager to learn and stay updated on the latest trends in solution architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Key Skills: Cloud Computing, Microservices, Solution Design, Communication
+
+Contact: infoaguirrejesus@duck.com
+
+----
+
+<a href="https://jeaguirre-web.vercel.app" target="_blank" rel="noopener noreferrer">![Website](https://img.shields.io/badge/Website-inactive.svg?style=for-the-badge&logo=Windows%20Terminal)</a>
+<a href="https://www.linkedin.com/in/info-aguirre-jesus" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-informational.svg?style=for-the-badge&logo=linkedin)</a>
