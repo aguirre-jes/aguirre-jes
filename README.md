@@ -2,7 +2,7 @@
 
 ----
 
-Experienced technologist with a background in banking, finance, and energy. Passionate about complex problem-solving, and designing innovative solutions across cloud platforms. Proven ability to translate technical concepts and collaborate effectively across teams. Eager to learn and stay updated on the latest trends in solution architecture.
+Experienced technologist with a background in banking, finance, and energy, holding a Bachelor's degree in Software Development. Passionate about complex problem-solving and designing innovative solutions across cloud platforms. Proven ability to translate technical concepts and collaborate effectively across teams. Eager to learn and stay updated on the latest trends in solution architecture.
 
 Key Skills: Cloud Computing, Microservices, Solution Design, Communication
 
