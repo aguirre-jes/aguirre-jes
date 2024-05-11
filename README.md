@@ -6,7 +6,7 @@ Experienced technologist with a background in banking, finance, and energy, hold
 
 Key Skills: Cloud Computing, Microservices, Solution Design, Communication
 
-Contact: infoaguirrejesus@duck.com
+Contact: infoaguirrejesus@proton.me
 
 ----
 
