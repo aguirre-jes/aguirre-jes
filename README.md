@@ -1,12 +1,16 @@
-### Senior System Engineer II @Indra - 3X AWS Certified
+### Senior System Engineer @Indra - 3X AWS Certified
 
 ----
 
-Experienced technologist with a background in banking, finance, and energy, holding a Bachelor's degree in Software Development. Passionate about complex problem-solving and designing innovative solutions across cloud platforms. Proven ability to translate technical concepts and collaborate effectively across teams. Eager to learn and stay updated on the latest trends in solution architecture.
+Experienced technologist with a background in banking, finance, and energy, holding a Bachelor's degree in Software Development. Passionate about complex problem-solving and designing innovative solutions across cloud platforms. Proven ability to translate technical concepts and collaborate effectively across teams. 
+
+Dedicated to building and growing collaborative tech communities, optimizing developer experience, and scaling platforms. Specialist in Java-based systems with a strong focus on scalability, performance, and maintainability. Actively engaged in the CNCF ecosystem, driving innovation through practical cloud-native solutions. Eager to learn and stay updated on the latest trends in solution architecture.
 
 Key Skills: Cloud Computing, Microservices, Solution Design, Communication
 
 Contact: infoaguirrejesus@proton.me
+
+CertDirectory.io: https://certdirectory.io/profile/896872fd-8a6f-46ad-b73a-9370928c99b2
 
 ----
 
