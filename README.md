@@ -4,7 +4,7 @@
 
 Experienced technologist with a background in banking, finance, and energy, holding a Bachelor's degree in Software Development. Passionate about complex problem-solving and designing innovative solutions across cloud platforms. Proven ability to translate technical concepts and collaborate effectively across teams. 
 
-Dedicated to building and growing collaborative tech communities, optimizing developer experience, and scaling platforms. Specialist in Java-based systems with a strong focus on scalability, performance, and maintainability. Actively engaged in the CNCF ecosystem, driving innovation through practical cloud-native solutions. Eager to learn and stay updated on the latest trends in solution architecture.
+Dedicated to building and growing collaborative tech communities, optimizing developer experience, and scaling platforms. As a CNCF Community Group Organizer for Cloud Native Panama, I actively contribute to this mission. My expertise lies in Java-based systems with a strong focus on scalability, performance, and maintainability. I'm deeply engaged in the CNCF ecosystem, driving innovation through practical cloud-native solutions.
 
 Key Skills: Cloud Computing, Microservices, Solution Design, Communication
 
