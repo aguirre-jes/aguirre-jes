@@ -1,4 +1,4 @@
-### Senior System Engineer @Indra - 3X AWS Certified
+### Senior System Engineer @Indra - CNCG Panama Organizer, JUG Panama Organizer, KCNA and KCSA.
 
 ----
 
