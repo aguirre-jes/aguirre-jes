@@ -11,8 +11,7 @@ Currently contributing to the growth of tech communities in Panama through CNCG 
 
 ---
 
-**Focus:** Kubernetes, Containers, Cloud Native, Developer Experience  
-**Certifications:** KCNA, KCSA  
+**Focus:** Kubernetes, Containers, Cloud Native, Developer Experience.
 
 📫 Contact: infoaguirrejesus@proton.me
 
