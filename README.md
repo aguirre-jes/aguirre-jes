@@ -1,19 +1,20 @@
 ### Cloud Native & Kubernetes Engineer  
-AWS Community Builder (Containers) | Panama CNCG Organizer | Panama JUG Organizer  
+AWS Community Builder (Containers) | Panama CNCG  Organizer | Panama JUG Organizer  
 
 ---
 
-I work around cloud native technologies, focusing on Kubernetes, containers, and developer experience.
+Working around Kubernetes, containers, and cloud native systems. Ideas are tested through demos, talks, and community-driven initiatives.
 
-I design, test, and share ideas through talks, demos, and community initiatives. Most of my work sits at the intersection of engineering and enablement.
-
-Currently contributing to the growth of tech communities in Panama through CNCG and JUG.
+Most of the focus goes into simplifying complexity for developers.
 
 ---
 
-**Focus:** Kubernetes, Containers, Cloud Native, Developer Experience.
+📌 Current focus:
+- Kubernetes & containers  
+- Cloud native tooling  
+- Developer experience  
 
-📫 Contact: infoaguirrejesus@proton.me
+📫 Contact: infoaguirrejesus@proton.me  
 
 ----
 
