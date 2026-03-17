@@ -3,9 +3,10 @@ AWS Community Builder (Containers) | Panama CNCG  Organizer | Panama JUG Organiz
 
 ---
 
-Working around Kubernetes, containers, and cloud native systems. Ideas are tested through demos, talks, and community-driven initiatives.
+Exploring Kubernetes, containers, and cloud native systems.
 
-Most of the focus goes into simplifying complexity for developers.
+Ideas take shape through demos, talks, and real implementations.  
+Focused on simplifying complexity for developers.
 
 ---
 
