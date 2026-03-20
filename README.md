@@ -1,5 +1,5 @@
 ### Cloud Native & Kubernetes Engineer  
-AWS Community Builder (Containers) | Panama CNCG  Organizer | Panama JUG Organizer  
+AWS Community Builder (Containers) | Panama JUG Organizer  
 
 ---
 
