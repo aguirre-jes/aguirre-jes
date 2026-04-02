@@ -1,5 +1,5 @@
 ### Cloud Native & Kubernetes  
-AWS Community Builder (Containers) | Panama JUG Organizer  
+AWS Community Builder (Containers) | Panama JUG Leader.  
 
 ---
 
