@@ -20,4 +20,4 @@ Focused on simplifying complexity for developers.
 ----
 
 <a href="https://jesusaguirre.tech/" target="_blank" rel="noopener noreferrer">![Website](https://img.shields.io/badge/Website-inactive.svg?style=for-the-badge&logo=Windows%20Terminal)</a>
-<a href="https://www.linkedin.com/in/info-aguirre-jesus" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-informational.svg?style=for-the-badge&logo=linkedin)</a>
+<a href="https://www.linkedin.com/in/jesusaguirre-sa" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-informational.svg?style=for-the-badge&logo=linkedin)</a>
