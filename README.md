@@ -27,7 +27,7 @@ I enjoy sharing knowledge, participating in technical communities, and helping o
 **Community**
 
 - ☁️ [AWS Community Builder — Containers](https://builder.aws.com/community/@jeaguirre)
-- ☕ Leader at [Panama Java User Group](https://panamajug.org/)
+- ☕ Leader at [Panama Java Users Group](https://panamajug.org/)
 - 🤝 Technical mentoring and community knowledge sharing
 
 **Speaking topics**
